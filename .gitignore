@@ -2,13 +2,15 @@ mystuff.md
 
 # I think these files aren't letting me push up to github because they're pretty large files, so I'm 
 # adding them to the gitignore and hopefully it works 
-database/*
-database/cuprite512.mat
+database/
 processed/
 
 # Some not ready stuff for later 
 sert/model_runner.py
 model_runner.py
 documentation.md
+sert/
+
+model_runner.py
 
 **/large_files/*
