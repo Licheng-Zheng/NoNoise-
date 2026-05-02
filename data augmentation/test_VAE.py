@@ -1,3 +1,5 @@
+# loads the model and recreates the model to be used
+
 import torch
 import matplotlib.pyplot as plt
 
