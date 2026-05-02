@@ -5,12 +5,20 @@ mystuff.md
 database/*
 processed/*
 
+pines_crop_test/*
+pines_crop_test_ampshifted/*
+pines_crop_test_rotated/*
+
+
 # Some not ready stuff for later 
 sert/model_runner.py
 model_runner.py
 documentation.md
 sert/
+data_preprocessor.py
 
 model_runner.py
 
 **/large_files/*
+
+*.pyc

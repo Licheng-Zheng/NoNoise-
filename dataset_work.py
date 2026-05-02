@@ -18,7 +18,7 @@ def convert_npy_to_mat(npy_file_path: str, mat_file_path: str, var_name: str = '
     savemat(mat_file_path, {var_name: npy_data})
 
 
-dataset_folder_path = r"database" 
+dataset_folder_path = r"processed" 
 
 # Currently only supports npy into mat, but I'll add more in the future as we add models that require different
 # input formats 
